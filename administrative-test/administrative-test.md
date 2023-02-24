@@ -21,4 +21,88 @@
 
 ### 位置规律
 
+![](administrative-test.assets/2023-02-24-16-46-13-image.png)
+
 ![](administrative-test.assets/2023-02-24-11-02-35-image.png)
+
+#### 平移
+
+![](administrative-test.assets/2023-02-24-16-47-14-image.png)
+
+![](administrative-test.assets/2023-02-24-15-07-51-image.png)
+
+![](administrative-test.assets/2023-02-24-15-08-24-image.png)
+
+![](administrative-test.assets/2023-02-24-15-09-03-image.png)
+
+![](administrative-test.assets/2023-02-24-15-10-23-image.png)
+
+#### 旋转&翻转
+
+![](administrative-test.assets/2023-02-24-16-48-03-image.png)
+
+![](administrative-test.assets/2023-02-24-15-11-29-image.png)
+
+![](administrative-test.assets/2023-02-24-15-11-45-image.png)
+
+![](administrative-test.assets/2023-02-24-15-12-04-image.png)
+
+![](administrative-test.assets/2023-02-24-15-12-27-image.png)
+
+![](administrative-test.assets/2023-02-24-15-13-01-image.png)
+
+![](administrative-test.assets/2023-02-24-15-13-25-image.png)
+
+### 样式规律
+
+#### 图形遍历
+
+![](administrative-test.assets/2023-02-24-14-58-37-image.png)
+
+![](administrative-test.assets/2023-02-24-14-53-52-image.png)
+
+![](administrative-test.assets/2023-02-24-15-02-02-image.png)
+
+![](administrative-test.assets/2023-02-24-15-02-36-image.png)
+
+![](administrative-test.assets/2023-02-24-14-57-56-image.png)
+
+![](administrative-test.assets/2023-02-24-14-57-04-image.png)
+
+![](administrative-test.assets/2023-02-24-14-55-27-image.png)
+
+#### 加减同异
+
+![](administrative-test.assets/2023-02-24-16-10-19-image.png)
+
+![](administrative-test.assets/2023-02-24-16-34-43-image.png)
+
+![](administrative-test.assets/2023-02-24-16-14-20-image.png)
+
+
+
+![](administrative-test.assets/2023-02-24-16-15-39-image.png)
+
+![](administrative-test.assets/2023-02-24-16-21-21-image.png)
+
+![](administrative-test.assets/2023-02-24-16-24-03-image.png)
+
+![](administrative-test.assets/2023-02-24-16-27-51-image.png)
+
+![](administrative-test.assets/2023-02-24-16-30-48-image.png)
+
+#### 黑白运算
+
+![](administrative-test.assets/2023-02-24-16-37-37-image.png)
+
+![](administrative-test.assets/2023-02-24-16-45-00-image.png)
+
+![](administrative-test.assets/2023-02-24-16-39-35-image.png)
+
+![](administrative-test.assets/2023-02-24-16-40-59-image.png)
+
+![](administrative-test.assets/2023-02-24-16-42-08-image.png)
+
+![](administrative-test.assets/2023-02-24-16-43-30-image.png)
+
+![](administrative-test.assets/2023-02-24-16-44-26-image.png)
