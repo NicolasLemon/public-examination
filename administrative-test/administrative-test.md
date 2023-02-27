@@ -3,7 +3,7 @@
 - **作者：** Nicolas·Lemon
 - **修改：** Nicolas·Lemon
 - **创建日期：** 2023.02.24
-- **修改日期：** 2023.02.24
+- **修改日期：** 2023.02.27
 
 # 判断推理
 
@@ -79,8 +79,6 @@
 
 ![](administrative-test.assets/2023-02-24-16-14-20-image.png)
 
-
-
 ![](administrative-test.assets/2023-02-24-16-15-39-image.png)
 
 ![](administrative-test.assets/2023-02-24-16-21-21-image.png)
@@ -106,3 +104,67 @@
 ![](administrative-test.assets/2023-02-24-16-43-30-image.png)
 
 ![](administrative-test.assets/2023-02-24-16-44-26-image.png)
+
+### 属性规律
+
+![](administrative-test.assets/2023-02-27-14-03-52-image.png) 
+
+#### 对称性
+
+![](administrative-test.assets/2023-02-27-14-18-15-image.png)
+
+![](administrative-test.assets/2023-02-27-14-37-11-image.png)
+
+* 轴对称图形
+  
+  ![](administrative-test.assets/2023-02-27-14-06-03-image.png)
+
+* 中心对称图形
+  
+  ![](administrative-test.assets/2023-02-27-14-07-42-image.png)
+
+* 既是轴对称又是中心对称图形
+  
+  ![](administrative-test.assets/2023-02-27-14-09-10-image.png)
+
+![](administrative-test.assets/2023-02-27-14-10-26-image.png)
+
+![](administrative-test.assets/2023-02-27-14-11-15-image.png)
+
+![](administrative-test.assets/2023-02-27-14-12-39-image.png)
+
+![](administrative-test.assets/2023-02-27-14-14-35-image.png)
+
+![](administrative-test.assets/2023-02-27-14-25-16-image.png)
+
+![](administrative-test.assets/2023-02-27-14-27-13-image.png)
+
+![](administrative-test.assets/2023-02-27-14-29-25-image.png)
+
+![](administrative-test.assets/2023-02-27-14-30-40-image.png)
+
+#### 曲直性
+
+![](administrative-test.assets/2023-02-27-16-17-44-image.png)
+
+![](administrative-test.assets/2023-02-27-16-25-12-image.png)
+
+![](administrative-test.assets/2023-02-27-16-18-25-image.png)
+
+![](administrative-test.assets/2023-02-27-16-18-58-image.png)
+
+![](administrative-test.assets/2023-02-27-16-20-16-image.png)
+
+![](administrative-test.assets/2023-02-27-16-23-02-image.png)
+
+#### 封闭性
+
+![](administrative-test.assets/2023-02-27-16-27-58-image.png)
+
+![](administrative-test.assets/2023-02-27-16-32-13-image.png)
+
+![](administrative-test.assets/2023-02-27-16-29-27-image.png)
+
+![](administrative-test.assets/2023-02-27-16-30-36-image.png)
+
+![](administrative-test.assets/2023-02-27-16-31-19-image.png)
