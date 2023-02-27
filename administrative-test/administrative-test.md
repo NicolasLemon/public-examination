@@ -168,3 +168,13 @@
 ![](administrative-test.assets/2023-02-27-16-30-36-image.png)
 
 ![](administrative-test.assets/2023-02-27-16-31-19-image.png)
+
+### 数量规律
+
+![](administrative-test.assets/2023-02-27-20-17-20-image.png)
+
+#### 数点
+
+![](administrative-test.assets/2023-02-27-20-18-56-image.png)
+
+![](administrative-test.assets/2023-02-27-20-20-57-image.png)
