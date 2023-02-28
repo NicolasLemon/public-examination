@@ -3,7 +3,7 @@
 - **作者：** Nicolas·Lemon
 - **修改：** Nicolas·Lemon
 - **创建日期：** 2023.02.24
-- **修改日期：** 2023.02.27
+- **修改日期：** 2023.02.28
 
 # 判断推理
 
@@ -178,3 +178,27 @@
 ![](administrative-test.assets/2023-02-27-20-18-56-image.png)
 
 ![](administrative-test.assets/2023-02-27-20-20-57-image.png)
+
+![](administrative-test.assets/2023-02-28-20-32-13-image.png)
+
+![](administrative-test.assets/2023-02-28-20-22-56-image.png)
+
+![](administrative-test.assets/2023-02-28-20-24-19-image.png)
+
+![](administrative-test.assets/2023-02-28-20-26-02-image.png)
+
+![](administrative-test.assets/2023-02-28-20-27-34-image.png)
+
+![](administrative-test.assets/2023-02-28-20-28-10-image.png)
+
+![](administrative-test.assets/2023-02-28-20-29-21-image.png)
+
+![](administrative-test.assets/2023-02-28-20-31-05-image.png)
+
+#### 数线
+
+![](administrative-test.assets/2023-02-28-20-35-19-image.png)
+
+![](administrative-test.assets/2023-02-28-20-36-18-image.png)
+
+![](administrative-test.assets/2023-02-28-20-49-26-image.png)
