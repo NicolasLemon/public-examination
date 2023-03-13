@@ -3,7 +3,7 @@
 - **作者：** Nicolas·Lemon
 - **修改：** Nicolas·Lemon
 - **创建日期：** 2023.02.24
-- **修改日期：** 2023.02.28
+- **修改日期：** 2023.03.13
 
 # 判断推理
 
@@ -202,3 +202,15 @@
 ![](administrative-test.assets/2023-02-28-20-36-18-image.png)
 
 ![](administrative-test.assets/2023-02-28-20-49-26-image.png)
+
+# 资料分析
+
+## 公式技巧
+
+### 重点概念
+
+#### 增长
+
+![](administrative-test.assets/2023-03-13-22-49-10-image.png)
+
+![](administrative-test.assets/2023-03-13-23-55-09-image.png)
